@@ -10,7 +10,7 @@
 <h3>Project Demo</h3>
 
 <img width="1152" height="462" alt="All on minikube" src="https://github.com/user-attachments/assets/ed946957-8273-4a18-8f8a-388518dc33d3" />
-<br>
+</br>
 <img width="757" height="162" alt="config and secret" src="https://github.com/user-attachments/assets/d577912e-07b7-409f-bca8-b0b100942712" />
 <br>
 <img width="1482" height="622" alt="kubectl describe pod pod-name" src="https://github.com/user-attachments/assets/c0eba538-e8b2-4172-8e3d-43d6b570ebc5" />
