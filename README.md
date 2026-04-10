@@ -1,5 +1,5 @@
 <h1>Kubernetes-Based Full-Stack Application Deployment</h1>
-<p>Technologies: Kubernetes, Minikube, kubectl, WSL (Ubuntu) </p>
+<h3><p>Technologies: Kubernetes, Minikube, kubectl, WSL (Ubuntu) </p></h3>
 <p>Deployed a containerized full-stack application (frontend + MongoDB) using a local Kubernetes cluster (Minikube) in a WSL (Ubuntu) environment.</p>
 <p>Implemented Deployments and Services for scalability and internal/external communication, while managing configuration and credentials using ConfigMaps and Secrets.</p>
 <p>Used declarative YAML manifests and kubectl to manage and deployments consistently.</p>
