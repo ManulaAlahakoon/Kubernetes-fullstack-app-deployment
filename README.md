@@ -10,13 +10,18 @@
 <h3>Project Demo</h3>
 
 <img width="1152" height="462" alt="All on minikube" src="https://github.com/user-attachments/assets/ed946957-8273-4a18-8f8a-388518dc33d3" />
-</br>
+</br></br>
+
 <img width="757" height="162" alt="config and secret" src="https://github.com/user-attachments/assets/d577912e-07b7-409f-bca8-b0b100942712" />
-<br>
+</br>
+</br>
 <img width="1482" height="622" alt="kubectl describe pod pod-name" src="https://github.com/user-attachments/assets/c0eba538-e8b2-4172-8e3d-43d6b570ebc5" />
-<br>
+</br>
+</br>
 <img width="1018" height="317" alt="Tunnel" src="https://github.com/user-attachments/assets/fae9b934-cbe2-4bf2-b5fd-3b207304ebbb" />
-<br>
+</br>
+</br>
 <img width="1888" height="953" alt="Final" src="https://github.com/user-attachments/assets/33f67628-1e4f-42b1-bdf0-0b7b542cfc62" />
-<br>
+</br>
+</br>
 <img width="1913" height="957" alt="Alice 2" src="https://github.com/user-attachments/assets/81fab78b-ab2f-4145-baab-b4d55a8a0743" />
