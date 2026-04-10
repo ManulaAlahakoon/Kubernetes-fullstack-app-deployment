@@ -17,6 +17,10 @@
 </br>
 <img width="1482" height="622" alt="kubectl describe pod pod-name" src="https://github.com/user-attachments/assets/c0eba538-e8b2-4172-8e3d-43d6b570ebc5" />
 </br>
+</br></br>
+</br>
+<h3>Access web app using NodePort in Service</h3></br>
+</br></br>
 </br>
 <img width="986" height="102" alt="services" src="https://github.com/user-attachments/assets/6aff389c-309a-4807-8050-6e2702dedc75" />
 </br>
