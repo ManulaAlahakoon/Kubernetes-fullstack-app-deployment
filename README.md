@@ -5,7 +5,7 @@
 <p>Used declarative YAML manifests and kubectl to manage and deployments consistently.</p>
 
 <h3>Architecture</h3>
-<img width="1456" height="735" alt="Architecture png" src="https://github.com/user-attachments/assets/bcb24699-c671-4efa-a73d-d4f12df5582f" />
+<img width="1456" height="735" alt="Architecture png" src="https://github.com/user-attachments/assets/e1344a35-1688-4d54-bf54-b92fec1abeb9" />
 
 <h3>Project Demo</h3>
 
